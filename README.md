@@ -1,7 +1,11 @@
 # Gratitude Gang Art Engine 🌻
 
 Create generative art by using the canvas api and node js. Before you 
-use the generation engine, make sure you have node.js(v16) installed.
+use the generation engine, make sure you have node.js (v16) installed.
+
+Support us @[gratitudegang.io](https://www.gratitudegang.io/) and if 
+you are using this library, hope you can 
+[mint a sunflower](https://www.gratitudegang.io/mint) :)
 
 ## Installation 🛠️
 
@@ -48,6 +52,4 @@ project. Other commands you may want to try are the following.
    [nft.storage](https://nft.storage/). You need to add your pinata API 
    keys to `.env` first **(copy `.env.sample` to get started)**.
 
-That's it, you're done.
-
-Hope you create some awesome artworks with this code 👄
+That's it, you're done. Hope you create some awesome artworks with this code 👄
