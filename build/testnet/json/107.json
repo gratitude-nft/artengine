@@ -1,0 +1,29 @@
+{
+  "name": "Gratitude Gang - Orange #107",
+  "description": "A collection of 2,222 unique Non-Fungible SUNFLOWERS living in the metaverse.",
+  "preview": "https://ipfs.io/ipfs/QmeqXsJzb87dma2FKSGQVmojvGeukJxXjKv4ov1qDXy9KS",
+  "image": "https://ipfs.io/ipfs/QmUGGDokHatNZQXhuuVVgfhJxPvoVkA2KrKiCE6pVcFMLx",
+  "external_url": "https://www.gratitudegang.io/ph/collection?id=107",
+  "series": "Orange",
+  "edition": 107,
+  "dna": "QmUGGDokHatNZQXhuuVVgfhJxPvoVkA2KrKiCE6pVcFMLx",
+  "date": 1648972047627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Leaf",
+      "value": "Mustard"
+    },
+    {
+      "trait_type": "Petals",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    }
+  ]
+}

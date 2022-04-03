@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "setup": "node scripts/config_layers.js",
+    "build": "node scripts/build_collection.js",
+    "rarity": "node scripts/rarity_report.js",
+    "pinata": "node scripts/pinata_upload.js",
+    "nft.storage": "node scripts/nft.storage_upload.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@pinata/sdk": "1.1.24",
+    "axios": "0.26.1",
+    "bottleneck": "2.19.5",
+    "canvas": "^2.8.0",
+    "dotenv": "^14.2.0",
+    "form-data": "4.0.0",
+    "fs-extra": "10.0.1",
+    "ipfs-only-hash": "4.0.0"
+  }
+}

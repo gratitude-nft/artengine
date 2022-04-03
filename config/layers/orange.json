@@ -1,0 +1,82 @@
+{
+  "testnet": [
+    {
+      "name": "Background",
+      "visible": true,
+      "order": 1,
+      "attributes": {
+        "Orange": {
+          "id": 3,
+          "visible": true,
+          "path": "1-Background/Orange#10.png",
+          "weight": 10
+        }
+      }
+    },
+    {
+      "name": "Leaf",
+      "visible": true,
+      "order": 2,
+      "attributes": {
+        "Mustard": {
+          "id": 6,
+          "visible": true,
+          "path": "2-Leaf/Mustard#1.png",
+          "weight": 1
+        }
+      }
+    },
+    {
+      "name": "Petals",
+      "visible": true,
+      "order": 3,
+      "attributes": {
+        "Yellow": {
+          "id": 12,
+          "visible": true,
+          "path": "3-Petals/Yellow#5.png",
+          "weight": 5
+        }
+      }
+    },
+    {
+      "name": "Base",
+      "visible": false,
+      "order": 4,
+      "attributes": {
+        "Base": {
+          "id": 13,
+          "visible": true,
+          "path": "4-_Base/Base#1.png",
+          "weight": 1
+        }
+      }
+    },
+    {
+      "name": "Eyes",
+      "visible": true,
+      "order": 5,
+      "attributes": {
+        "Brown": {
+          "id": 15,
+          "visible": true,
+          "path": "5-Eyes/Brown#10.png",
+          "weight": 10
+        }
+      }
+    },
+    {
+      "name": "Watermark",
+      "visible": false,
+      "order": 6,
+      "attributes": {
+        "Watermark": {
+          "id": 17,
+          "visible": true,
+          "path": "6-_Watermark/Watermark#1.png",
+          "weight": 1
+        }
+      }
+    }
+  ]
+}

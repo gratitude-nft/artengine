@@ -1,0 +1,29 @@
+{
+  "name": "Gratitude Gang - Green #100",
+  "description": "A collection of 2,222 unique Non-Fungible SUNFLOWERS living in the metaverse.",
+  "preview": "https://ipfs.io/ipfs/QmRwwpaTygqnGHp4wHNiNyQGtboFuXreN1w8J9uM6CitCw",
+  "image": "https://ipfs.io/ipfs/QmSvtECBRrJxZrku7nr7QLv1K41XZekC9gsvsrgXHoeqqn",
+  "external_url": "https://www.gratitudegang.io/ph/collection?id=100",
+  "series": "Green",
+  "edition": 100,
+  "dna": "QmSvtECBRrJxZrku7nr7QLv1K41XZekC9gsvsrgXHoeqqn",
+  "date": 1648972045270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Leaf",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Petals",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    }
+  ]
+}
